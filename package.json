@@ -1,0 +1,16 @@
+{
+  "name": "res",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ritesh",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^2.1.20",
+    "mongoose": "^4.4.19",
+    "restify": "^4.1.0"
+  }
+}
